@@ -21,9 +21,12 @@ Test.csv is the test set, which won't be released until the last week of the com
 
 The key fields are in train.csv are:
 
-SalesID: the uniue identifier of the sale
+SalesID: the unique identifier of the sale
+
 MachineID: the unique identifier of a machine.  A machine can be sold multiple times
+
 saleprice: what the machine sold for at auction (only provided in train.csv)
+
 saledate: the date of the sale
 
 ## Evaluation
